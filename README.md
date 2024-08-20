@@ -31,5 +31,5 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 Then you will need install the requirements of your project:
 
 ```
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
